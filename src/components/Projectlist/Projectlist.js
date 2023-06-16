@@ -21,7 +21,7 @@ function Projectlist() {
                 isBlog={false}
                 title="Social Media App"
                 description="simular to facebook user can add/delete a post, follow/unfollow friends, see how is online"
-                ghLink=""
+                ghLink="https://socialmedia-bp.netlify.app"
                 technologies={["react", "nodejs", "mongodb","html","css"]}
               />
             </Col>
