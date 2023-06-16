@@ -10,9 +10,15 @@ function Aboutpage() {
                 <Row className='textbackground'>
                     <Col md={7} >
                         <h3 className='aboutmetext'>About <span>Me</span></h3>
-                        I am an accomplished full stack developer with a deep enthusiasm for crafting robust front and back-end applications. With an unwavering drive to thrive in the dynamic and constantly evolving tech industry, I eagerly seek an environment where I can collaborate with other exceptional engineers.
+                        <p className='aboutdetails'> 
+                        I am an accomplished full stack developer with a deep enthusiasm for crafting robust front and back-end applications. 
+                        With an unwavering drive to thrive in the dynamic and constantly evolving tech industry, I eagerly seek an environment 
+                        where I can collaborate with other exceptional engineers.
 
-My expertise lies in my ability to swiftly acquire new skills and programming languages, tackle complex problem-solving challenges, and seamlessly collaborate with team members. My genuine passion for working alongside others fuels my desire to continuously learn and innovate, consistently seeking novel approaches to problem-solving.                        </p>
+                        My expertise lies in my ability to swiftly acquire new skills and programming languages, tackle complex problem-solving challenges,
+                         and seamlessly collaborate with team members. My genuine passion for working alongside others fuels my desire to continuously learn 
+                         and innovate, consistently seeking novel approaches to problem-solving.                        
+                         </p>
                         <ul className='skilllist'>
                             <Row>
                                 <h3>Skills</h3>
